@@ -1,0 +1,26 @@
+#mainBox {
+    width: 800px;
+    height: 600px;
+    background-color: #E9F8E0;
+    padding: 10px;
+    border: 4px solid #B5EA9C;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+#navBox {
+    width: 100px;
+    padding: 1em;
+    list-style-type: none;
+    margin: auto;
+
+}
+
+header img {
+    display: block;
+    top: 0;
+    margin: auto;
+    height: 140px;
+    padding: 10px;
+}
