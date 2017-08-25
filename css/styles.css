@@ -24,3 +24,16 @@ header img {
     height: 140px;
     padding: 10px;
 }
+
+nav ul li a{
+    color: #fff;
+    text-shadow: 0px 2px 0 #003856;
+    background: #0086ca;
+    background: linear-gradient(225deg, transparent 35px, #9DDC96 0) top right;
+    padding-right: 55px;
+    text-decoration: none;
+}
+
+footer img {
+    width: 100%;
+}
